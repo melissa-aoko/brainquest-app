@@ -1,5 +1,3 @@
-Absolutely! Here's a clean, informative `README.md` for your **BrainQuest App**:
-
 ```markdown
 # BrainQuest App
 
